@@ -1,2 +1,2 @@
-# PR-Docs
-Repository for the XB15-PR Docs
+# MicroProto-Docs
+Repository for the XB15-MicroProtoDocs
