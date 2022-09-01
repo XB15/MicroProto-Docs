@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_order: 1
-parent: MicroProto
+parent: Microproto
 ---
 
 # Features
