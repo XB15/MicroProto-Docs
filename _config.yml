@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
-title: XB15-MicroProto Docs
-description: MicroProto the all in one protogen Pi Hat!
-footer_content: "MicroProto is part of the XB15 family<br><strong>Github Repo: </strong><a href='https://github.com/XB15/MicroProto'>https://github.com/XB15/MicroProto</a><br><strong>Docs Github Repo: </strong><a href='https://github.com/XB15/MicroProto'>https://github.com/XB15/MicroProto</a><br><strong>Discord: </strong><a href='https://discord.gg/SlimeVR'>https://discord.gg/SlimeVR</a>"
+title: XB15 Docs
+description: XB15 custom cosplay solutions
+footer_content: "MicroProto is part of the XB15 family<br><strong>Github Repo: </strong><a href='https://github.com/XB15/MicroProto'>https://github.com/XB15/MicroProto</a><br><strong>Docs Github Repo: </strong><a href='https://github.com/XB15/MicroProto'>https://github.com/XB15/MicroProto</a><br><strong>Discord: </strong><a href='https://discord.gg/hZFV7YaY'>https://discord.gg/hZFV7YaY</a>"
